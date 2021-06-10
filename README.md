@@ -1,7 +1,7 @@
 <img src="https://github.com/laviyash/laviyash/blob/main/banner.png" alt="banner that says Hi I am Yash- A Salesforce Developer in making">
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/yash-shrivastava-53b405170/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" color="White"/></a>
+<a href="https://www.linkedin.com/in/yash-shrivastava-53b405170/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="" height="30" width="40" /></a>
 <a href="your link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="" height="30" width="40" /></a>
 
 
@@ -19,7 +19,7 @@ Something you should know'
 - 📫 How to reach me: yashshrivastava28@gmail.com
 - ⚡ Fun fact: lets Travell 
 
-![Yash GitHub stats](https://github-readme-stats.vercel.app/api?username=laviyash&show_icons=true&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laviyash&theme=radical&layout=compact&card_hight=20)](https://github.com/anuraghazra/github-readme-stats)
+![Yash GitHub stats](https://github-readme-stats.vercel.app/api?username=laviyash&show_icons=true&theme=radical&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laviyash&theme=radical&layout=compact&card_hight=50&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 [![Yash GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=laviyash&theme=radical&hide_border=true)](https://git.io/streak-stats)
