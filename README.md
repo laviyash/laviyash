@@ -1,7 +1,6 @@
-### Hi there 👋
+Hi there 👋
 
-<!--
-**laviyash/laviyash** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Something you should know'
 
