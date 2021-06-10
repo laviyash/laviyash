@@ -19,5 +19,6 @@ Something you should know'
 - 📫 How to reach me: yashshrivastava28@gmail.com
 - ⚡ Fun fact: lets Travell 
 
+![Yash GitHub stats](https://github-readme-stats.vercel.app/api?username=laviyash&show_icons=true&theme=radical)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=laviyash&theme=radical&hide_border=true)](https://git.io/streak-stats)
+[![Yash GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=laviyash&theme=radical&hide_border=true)](https://git.io/streak-stats)
