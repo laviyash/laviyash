@@ -1,4 +1,4 @@
-[![MasterHead]https://github.com/laviyash/laviyash/blob/main/banner.png]https://github.com/laviyash
+<img src="https://github.com/laviyash/laviyash/blob/main/banner.png" alt="banner that says Hi I am Yash- A Salesforce Developer in making">
 
 
 
