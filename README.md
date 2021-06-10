@@ -21,5 +21,6 @@ Something you should know'
 
 ![Yash GitHub stats](https://github-readme-stats.vercel.app/api?username=laviyash&show_icons=true&theme=radical&hide_border=true) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laviyash&theme=radical&layout=compact&card_hight=50&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=laviyash&repo=github-readme-stats)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Yash GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=laviyash&theme=radical&hide_border=true)](https://git.io/streak-stats)
