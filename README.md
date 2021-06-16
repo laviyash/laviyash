@@ -1,7 +1,9 @@
-<img src="https://github.com/laviyash/laviyash/blob/main/banner.png" alt="banner that says Hi I am Yash- A Salesforce Developer in making">
+<img align="center" alt="Coding" width="900" height="400" src="https://github.com/laviyash/laviyash/blob/main/avento.gif" alt="banner that says Hi I am Yash- A Salesforce Developer in making">
 <h1 align="center">Hi 👋, I'm Yash Shrivastava</h1>
 <h3 align="center">A Salesforce Developer in making.</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=laviyash&label=Profile%20views&color=0e75b6&style=flat" alt="laviyash" /> </p>
+
+
 
 - 🔭 I’m currently working on SALESFORCE.COM
 - 🌱 I’m currently learning LWC AND AURA
