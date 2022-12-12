@@ -6,12 +6,10 @@
 
 
 - 🔭 I’m currently working on SALESFORCE.COM
-- 🌱 I’m currently learning LWC AND AURA
+- 🌱 Experienced in Salesforce lightning  
 - 👯 I’m looking to collaborate on SALESFORCE PROJECTS
-- 🤔 I’m looking for help with LWC
 - 💬 Ask me about SALSFORCE
 - 📫 How to reach me: yashshrivastava28@gmail.com
-- ⚡ Fun fact: lets Travell 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
